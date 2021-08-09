@@ -1,0 +1,13 @@
+.text-center{
+}
+body{
+    background-image: url("../IMG/fondoPokemon.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    /*color: blue;*/
+}
+td{
+    border:1px solid black;
+}
